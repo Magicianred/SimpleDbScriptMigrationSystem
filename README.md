@@ -7,9 +7,17 @@ A simple system to keep track of executions script again DBs. Nothing to new or 
 
 ## Diagrams  
 
+### Use case DbScriptMigration  
+
 ![Diagram](https://github.com/Magicianred/SimpleDbScriptMigrationSystem/blob/develop/Project/Diagrams/SimpleDbScriptMigrationSystem.png)  
 [drawio](https://github.com/Magicianred/SimpleDbScriptMigrationSystem/blob/develop/Project/Diagrams/SimpleDbScriptMigrationSystem.drawio)  
 [png](https://github.com/Magicianred/SimpleDbScriptMigrationSystem/blob/develop/Project/Diagrams/SimpleDbScriptMigrationSystem.png)
+
+### Use case Automation CLI    
+
+![Diagram](https://github.com/Magicianred/SimpleDbScriptMigrationSystem/blob/develop/Project/Diagrams/AutomationCliMigration.png)  
+[drawio](https://github.com/Magicianred/SimpleDbScriptMigrationSystem/blob/develop/Project/Diagrams/AutomationCliMigration.drawio)  
+[png](https://github.com/Magicianred/SimpleDbScriptMigrationSystem/blob/develop/Project/Diagrams/AutomationCliMigration.png)
 
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
