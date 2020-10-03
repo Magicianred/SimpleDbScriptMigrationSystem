@@ -1,9 +1,9 @@
-# SimpleDbScriptMigrationSystem
+# SimpleDbScriptMigrationSystem  
 A simple database script migration system.  
 
 A simple system to keep track of executions script again DBs. Nothing to new or special, but very useful.  
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Magicianred/SimpleDbScriptMigrationSystem?label=version&sort=semver) [![CC BY 4.0][cc-by-shield]][cc-by]
 
 ## Diagrams  
 
